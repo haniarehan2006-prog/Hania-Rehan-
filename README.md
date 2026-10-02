@@ -16,9 +16,13 @@ I am a Data Science student interested in programming, databases, and software d
 ## Featured Projects
 
 ### FixNgo - Smart Home Services
-### Edu-Track - Smart Learning System 
+
 
 A web-based service booking platform that helps users find and hire trusted service providers such as plumbers, electricians, cleaners, and mechanics.
+
+### Edu-Track - Smart Learning System 
+
+A web-based service which allows students to place all there esources at one location and access them anytime. It allows students to generate quizes and MCQ'S for exam preperation using AI chatbot used in the application. 
 
 ### Data Science Projects
 
